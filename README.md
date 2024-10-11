@@ -7,4 +7,4 @@ Created a custom hardware platform consisting of intel integrated graphics card 
 Requirements to run the notebook: 
 Dell Precision 5520 workstation with integrated graphics card and Quadro M1200 GPU.
 
-# Refer to the workshop slides for Intel DE-10 SoC FPGA here .
+# Refer to the workshop slides for Intel DE-10 SoC FPGA here https://github.com/dheerj188/CIE_SWS_Workshop_SoC_track.
